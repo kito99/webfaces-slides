@@ -3,4 +3,8 @@ node_modules
 *.pdf
 *.iml
 .idea
+.bundle
+*.lock
+out
+asciidoctor-reveal.js
 README.html
